@@ -12,7 +12,7 @@ RUN apt-get update -qq \
   libexif-dev libtheora-dev libvorbis-dev python-dev cmake xutils-dev \
   libegl1-mesa-dev libeigen3-dev libfftw3-dev libvdpau-dev \
   # Additional runtime libs \
-  libgavl1 libsox2 libexif12 xvfb libxkbcommon-x11-0 libhyphen0 libwebp6 \
+  libgavl1 libsox-dev libexif12 xvfb libxkbcommon-x11-0 libhyphen0 libwebp6 \
   # LADSPA plugins \
   amb-plugins ambdec autotalent blepvco blop bs2b-ladspa calf-ladspa caps cmt \
   csladspa fil-plugins guitarix-ladspa invada-studio-plugins-ladspa mcp-plugins \
